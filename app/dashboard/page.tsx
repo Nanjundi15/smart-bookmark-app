@@ -68,10 +68,10 @@ export default function Dashboard() {
     <div className="min-h-screen flex items-center justify-center overflow-hidden relative">
 
       {/* Background Image */}
-      <img
+      {/* <img
         src="/235d46101965383.5f2b63723db13.png"
         className="absolute w-full h-full object-cover opacity-40 bg-zoom"
-      />
+      /> */}
 
       {/* F1 Cars */}
       <div className="race-car" style={{ top: '15%' }}>🏎</div>
